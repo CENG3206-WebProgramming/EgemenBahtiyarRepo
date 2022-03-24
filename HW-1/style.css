@@ -1,0 +1,54 @@
+.Sidebar {
+    position: fixed;
+    text-align: center;
+    width: 350px;
+    height: 100%;
+    background-color: #5655da;
+}
+.profileImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.Sections {
+    text-align: center;
+}
+.Sections a {
+    display: inline-block;
+    margin: 10px 0px;
+    text-decoration: none;
+    color: white;
+}
+.text-white {
+    color: white;
+}
+.Bold {
+    font-weight: bold;
+}
+.Contents {
+    margin-left: 380px;
+}
+.Contents h1 {
+    color: red;
+}
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+#About-me p {
+    text-align: justify;
+}
+#About-me ul li {
+    margin: 15px 0px;
+}
+#Experience tr th {
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+#Experience tr td {
+    padding-right: 30px;
+    padding: 10px;
+}
