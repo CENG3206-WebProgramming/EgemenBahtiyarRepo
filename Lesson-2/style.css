@@ -1,0 +1,20 @@
+#container {
+  height: 800px;
+}
+#outer-box {
+  width: 400px;
+  height: 400px;
+  background-color: teal;
+  margin: 50px auto;
+}
+#inner-box {
+  width: 200px;
+  height: 200px;
+  border: 50px solid pink;
+  background-color: salmon;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
